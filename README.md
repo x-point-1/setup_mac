@@ -23,6 +23,7 @@ https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 * Docker
 * XCode
 * Android Studio
+* iTerm2
 * Sequel Ace
 * AWS CLI
 * Terraform
