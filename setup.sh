@@ -1,8 +1,14 @@
 #!/bin/bash
 
-# VSCode
-brew install visual-studio-code --cask
-# VSCode拡張機能
-while IFS= read -r line; do    
-    code --install-extension $line
-done < vscode_extensions.txt
+# Homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew update
+
+# Google Chrome
+brew install --cask google-chrome
+
+# Zoom
+brew install --cask zoom
+
+# Slack
+brew install --cask slack

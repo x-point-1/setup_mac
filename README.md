@@ -7,8 +7,20 @@ Macの開発環境を1つのスクリプトでインストールを完了させ�
 https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 ## スクリプト実行
 ```zsh
-./setup.sh
+./setup.sh #全員用
+./setup-for-developer.sh #開発者用
 ```
 
-# インストールされるもの
+### インストールされるもの
+#### 全員用
+* Homebrew
+* Google Chrome
+* Zoom
+* Slack
+#### 開発者用
 * VSCode(拡張機能込)
+
+# その他のアプリケーション
+スクリプトでのインストールが難しいアプリは手動でインストールしてください
+## 手動インストール
+* [Gyazo Teams](https://x-point-1.gyazo.com/download)
