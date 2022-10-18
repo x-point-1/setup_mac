@@ -14,11 +14,16 @@ https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 ### インストールされるもの
 #### 全員用
 * Homebrew
+* MAS(Mac App Storeのコマンドラインツール)
 * Google Chrome
 * Zoom
 * Slack
 #### 開発者用
 * VSCode(拡張機能込)
+* Docker
+* XCode
+* Android Studio
+* Sequel Ace
 
 # その他のアプリケーション
 スクリプトでのインストールが難しいアプリは手動でインストールしてください
