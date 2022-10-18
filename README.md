@@ -24,8 +24,17 @@ https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 * XCode
 * Android Studio
 * Sequel Ace
+* AWS CLI
+* Terraform
+* PHP
+* Python
+* Node
 
 # その他のアプリケーション
 スクリプトでのインストールが難しいアプリは手動でインストールしてください
 ## 手動インストール
 * [Gyazo Teams](https://x-point-1.gyazo.com/download)
+
+## Slack関連アプリ
+* Googleカレンダー連携
+* [Github連携](https://zenn.dev/k_ogura/articles/c26c3595e50c1c)
