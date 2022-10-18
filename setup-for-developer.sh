@@ -18,6 +18,9 @@ mas install 497799835
 # Android Studio
 brew install --cask android-studio
 
+# iTerm2
+brew install --cask iterm2
+
 # Sequel Ace
 mas install 1518036000
 
