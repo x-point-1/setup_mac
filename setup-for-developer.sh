@@ -43,4 +43,12 @@ echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(pyenv init --path)"' >> ~/.zshrc
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
-# TODO Node
+# Node.js
+NODE_VERSION=18.7.0
+brew install nodenv
+nodenv install $NODE_VERSION
+nodenv global $NODE_VERSION
+echo '' >> ~/.zshrc
+echo '# nodenv' >> ~/.zshrc
+echo 'export PATH="$HOME/.nodenv/bin:$PATH"' >> ~/.zshrc
+echo 'eval "$(nodenv init -)"' >> ~/.zshrc
