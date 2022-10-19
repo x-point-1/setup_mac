@@ -21,6 +21,7 @@ https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 * [AltTab](https://alt-tab-macos.netlify.app/)
 * [Raycast](https://www.raycast.com/)
 * [Rectangle](https://rectangleapp.com/)
+* 1password
 #### 開発者用
 * VSCode(拡張機能込)
 * Docker

@@ -27,3 +27,6 @@ brew install --cask raycast
 
 # Rectangle
 brew install --cask rectangle
+
+# 1password
+brew install --cask 1password
