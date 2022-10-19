@@ -8,9 +8,8 @@ while IFS= read -r line; do
 done < vscode_extensions.txt
 
 # Docker
-brew install docker
-brew install docker-compose
 brew install --cask docker
+brew install docker-compose
 
 # XCode
 mas install 497799835
