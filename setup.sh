@@ -18,3 +18,12 @@ brew install --cask zoom
 
 # Slack
 brew install --cask slack
+
+# AltTab
+brew install --cask alt-tab
+
+# Raycast
+brew install --cask raycast
+
+# Rectangle
+brew install --cask rectangle

@@ -34,6 +34,9 @@ brew install terraform
 brew install php
 brew install composer
 
+# Fig
+brew install --cask fig
+
 # Python
 PYTHON_VERSION=3.9.14
 brew install pyenv

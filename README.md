@@ -18,6 +18,9 @@ https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 * Google Chrome
 * Zoom
 * Slack
+* [AltTab](https://alt-tab-macos.netlify.app/)
+* [Raycast](https://www.raycast.com/)
+* [Rectangle](https://rectangleapp.com/)
 #### 開発者用
 * VSCode(拡張機能込)
 * Docker
@@ -28,6 +31,7 @@ https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 * AWS CLI
 * Terraform
 * PHP
+* Fig
 * Python
 * Node
 
