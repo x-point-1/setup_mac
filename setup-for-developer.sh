@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# 全員用インストール
+./setup.sh
+
 # VSCode
 brew install --cask visual-studio-code
 # VSCode拡張機能
