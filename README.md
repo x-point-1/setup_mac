@@ -4,17 +4,14 @@ Macの開発環境を1つのスクリプトでインストールを完了させ�
 
 # 実行方法
 ## ダウンロード
-以下よりzipをダウンロードして解凍した先でターミナルを開く\
+以下よりzipをダウンロードして解凍する\
 https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 ## スクリプト実行
 ### 非エンジニア
-```zsh
-./setup.sh
-```
+setup.commandをダブルクリックする\
+途中でパスワード等聞かれるので入力し、スクリプトの完了を待つ
 ### エンジニア
-```zsh
-./setup-for-developer.sh
-```
+setup-for-developer.commandをダブルクリックする
 
 ### インストールされるもの
 #### 全員用

@@ -1,7 +1,9 @@
 #!/bin/bash
 
+cd `dirname $0`
+
 # 全員用インストール
-./setup.sh
+./setup.command
 
 # VSCode
 brew install --cask visual-studio-code
