@@ -9,6 +9,10 @@ xcode-select --install
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 brew update
 
+# Homebrew自動アップデート
+brew tab homebrew/autoupdate
+brew autoupdate start
+
 # MAS
 brew install mas
 
