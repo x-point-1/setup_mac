@@ -10,7 +10,7 @@ xcode-select --install
 brew update
 
 # Homebrew自動アップデート
-brew tab homebrew/autoupdate
+brew tap homebrew/autoupdate
 brew autoupdate start
 
 # MAS
