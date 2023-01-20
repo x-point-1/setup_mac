@@ -62,3 +62,6 @@ echo '' >> ~/.zshrc
 echo '# nodenv' >> ~/.zshrc
 echo 'export PATH="$HOME/.nodenv/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(nodenv init -)"' >> ~/.zshrc
+
+# yarn
+brew install yarn
