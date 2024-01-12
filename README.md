@@ -11,6 +11,7 @@ https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 setup.commandをダブルクリックする\
 途中でパスワード等聞かれるので入力し、スクリプトの完了を待つ
 ### エンジニア
+setup-for-developer.commandをデスクトップ配下に移動する\
 setup-for-developer.commandをダブルクリックする
 
 ### インストールされるもの
