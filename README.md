@@ -8,12 +8,13 @@ Macの開発環境を1つのスクリプトでインストールを完了させ�
 https://github.com/x-point-1/setup_mac/archive/refs/heads/master.zip
 ## スクリプト実行
 ### 非エンジニア
-setup-for-developer.commandをsetup_mac-master配下から移動する\
 setup.commandをダブルクリックする\
 途中でパスワード等聞かれるので入力し、スクリプトの完了を待つ
 ### エンジニア
-setup-for-developer.commandをsetup_mac-master配下から移動する\
 setup-for-developer.commandをダブルクリックする
+
+※ダブルクリックした際にpermission errorが出た際の解決策\
+「システム環境設定」→「プライバシーとセキュリティ」→「プライバシー」→「フルディスクアクセス」→「ターミナル」にチェックを入れて、任意のスクリプトをダブルクリックする。
 
 ### インストールされるもの
 #### 全員用
