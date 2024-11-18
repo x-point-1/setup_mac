@@ -9,6 +9,7 @@ dzhavat.bracket-pair-toggler
 eamodio.gitlens
 esbenp.prettier-vscode
 hashicorp.terraform
+prisma.prisma
 hediet.vscode-drawio
 huang12zheng.protobuf-helper
 mark-tucker.aws-cli-configure
