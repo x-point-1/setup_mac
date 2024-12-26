@@ -63,5 +63,11 @@ echo '# nodenv' >> ~/.zshrc
 echo 'export PATH="$HOME/.nodenv/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(nodenv init -)"' >> ~/.zshrc
 
+# tflint
+brew install tflint
+
+# actionlint
+brew install actionlint
+
 # yarn
 brew install yarn
